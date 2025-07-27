@@ -1,4 +1,4 @@
-# SalesScope Analytics
+# Salesscope Analytics
 Comprehensive sales data analysis to uncover business insights and performance patterns
 
 ## Overview
