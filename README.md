@@ -2,7 +2,7 @@
 
 **Developed and Analysed by:** [Srikar MK](https://www.linkedin.com/in/srikarmk/) & [Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)
 
-** You can visit the deployed website: ** [Website](https://walmart-sales-analysis.streamlit.app)
+**You can visit the deployed website:** [https://walmart-sales-analysis.streamlit.app](https://walmart-sales-analysis.streamlit.app)
 
 This project provides a comprehensive statistical analysis of Walmart sales data with an interactive Streamlit dashboard for visualization and exploration.
 
@@ -22,9 +22,6 @@ streamlit run streamlit_dashboard.py
 
 The dashboard will open in your browser at `http://localhost:8501`
 
-### 3. Run the Statistical Analysis Notebook
-
-Open `statistical_analysis.ipynb` in Jupyter Notebook or JupyterLab to explore the comprehensive statistical analysis.
 
 ## 📊 Features
 
@@ -182,31 +179,13 @@ The dashboard includes:
 4. **Performance Optimization**: Caching and query optimization
 5. **Security**: Authentication and authorization
 
-## 📞 Support & Contact
+## 📞 Connect with us
 
-**Developed and Analysed by:**
+- **[Srikar MK](https://www.linkedin.com/in/srikarmk/)** - AI Developer and Data Science Student
+- **[Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)** - AI Developer and Data Science Student
 
-- **[Srikar MK](https://www.linkedin.com/in/srikarmk/)** - Data Analyst & Developer
-- **[Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)** - Data Scientist & Analyst
-
-For questions, collaboration, or issues:
-
-1. Connect with us on LinkedIn using the links above
-2. Check the statistical analysis report for detailed findings
-3. Review the Jupyter notebook for code examples
-4. Examine the dashboard for interactive exploration
-5. Refer to the requirements.txt for dependency issues
-
-## 📄 License
-
-This project is for educational and analytical purposes. Please ensure compliance with data usage policies when working with the Walmart sales dataset.
-
----
-
-**Developed and Analysed by:** [Srikar MK](https://www.linkedin.com/in/srikarmk/) & [Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)
-
-**Last Updated**: December 2024  
 **Data Period**: January 1, 2019 - March 30, 2019  
 **Total Transactions**: 1,000  
 **Analysis Type**: Comprehensive Statistical Analysis with Interactive Dashboard
+
 
