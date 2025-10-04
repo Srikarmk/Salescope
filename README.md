@@ -1,4 +1,4 @@
-﻿﻿# Salescope - Walmart Sales Analytics Project
+<h1> Salescope - Walmart Sales Analytics Project </h1>
 
 **Developed and Analysed by:** [Srikar MK](https://www.linkedin.com/in/srikarmk/) & [Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)
 
@@ -187,6 +187,7 @@ The dashboard includes:
 **Data Period**: January 1, 2019 - March 30, 2019  
 **Total Transactions**: 1,000  
 **Analysis Type**: Comprehensive Statistical Analysis with Interactive Dashboard
+
 
 
 
