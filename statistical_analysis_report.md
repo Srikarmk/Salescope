@@ -1,4 +1,4 @@
-# Comprehensive Statistical Analysis Report: Walmart Sales Data
+# Salescope - Comprehensive Statistical Analysis Report: Walmart Sales Data
 
 **Developed and Analysed by:** [Srikar MK](https://www.linkedin.com/in/srikarmk/) & [Alekhya Bulusu](https://www.linkedin.com/in/alekhyabulusu/)
 
@@ -247,7 +247,7 @@ The statistical analysis reveals significant patterns in customer behavior and b
 4. **Product preferences** vary by gender and customer type
 5. **Time-based patterns** show clear peak and off-peak periods
 
-These insights provide a solid foundation for data-driven decision making and strategic planning. The implementation of the Streamlit dashboard enables real-time monitoring and analysis of these key performance indicators.
+These insights provide a solid foundation for data-driven decision making and strategic planning. The implementation of the Salescope Streamlit dashboard enables real-time monitoring and analysis of these key performance indicators.
 
 ---
 
